@@ -2,7 +2,7 @@
 
    👨‍💻 Soy una persona apasionada por la tecnología y el código abierto.
 
-   🌱 Actualmente estoy estudiando primer curso de Desarrollo de Aplicaciones Web en el Instituto La Estación de Onteniente.
+   🌱 Actualmente estoy estudiando segundo curso de Desarrollo de Aplicaciones Web en el Instituto La Estación de Onteniente.
 
    💬 Pregúntame todo lo que quieras
 
